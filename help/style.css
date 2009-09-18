@@ -1,0 +1,11 @@
+body	{ font-family: Verdana; text-align: justify; text-indent: 3% }
+.just   { font-size: 10pt }
+.just0  { font-size: 10pt; text-indent: 0 }
+.head0  { font-weight: bold; font-size: 24pt; color: #0000C0 }
+.head1  { font-weight: bold; font-size: 17pt; color: #0000C0 }
+.head2  { font-weight: bold; font-size: 13pt; color: #0000C0 }
+.head3  { font-weight: bold; font-size: 11pt; color: #0000C0 }
+.reg    { font-size: 8pt }
+.reg2   { font-size: 8pt; text-indent: 0 }
+.tbl    { font-size: 9pt; text-indent: 0 }
+.code   { font-family: Courier New; font-size: 8pt; text-align: left; text-indent: 0 }
